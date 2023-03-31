@@ -8,7 +8,7 @@
 ## Cтруктура файла
 [Vehicle](./23_practice.php#L3-L17) - Абстрактный класс
 
-[SpecialAbilities](./23_practice.php#L19-L23) - Интерфейс
+[SpecialAbilities](./23_practice.php#L19-L23) - Интерфейс способностей
 
 [Car](./23_practice.php#L25-L42) - Класс легковых автомобилей
 
