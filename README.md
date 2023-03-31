@@ -9,8 +9,11 @@
 
 ## Cтруктура файла
 [Vehicle](./23_practice.php#L3-L17) - Абстрактный класс
+
 [SpecialAbilities](./23_practice.php#L19-L23) - Интерфейс
+
 [Car](./23_practice.php#L25-L42) - класс легковых автомобилей
+
 [Tank](./23_practice.php#L43-L60) - класс танков
 [Vehicle](./23_practice.php#61-L78) - класс бульдозеров
 
