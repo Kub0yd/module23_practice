@@ -10,11 +10,11 @@
 
 [SpecialAbilities](./23_practice.php#L19-L23) - Интерфейс
 
-[Car](./23_practice.php#L25-L42) - класс легковых автомобилей
+[Car](./23_practice.php#L25-L42) - Класс легковых автомобилей
 
-[Tank](./23_practice.php#L43-L60) - класс танков
+[Tank](./23_practice.php#L43-L60) - Класс танков
 
-[Vehicle](./23_practice.php#L61-L78) - класс бульдозеров
+[Vehicle](./23_practice.php#L61-L78) - Класс бульдозеров
 
 
 ## Используемые технологии
