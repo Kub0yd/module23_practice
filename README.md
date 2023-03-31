@@ -14,7 +14,7 @@
 
 [Tank](./23_practice.php#L43-L60) - Класс танков
 
-[Vehicle](./23_practice.php#L61-L78) - Класс бульдозеров
+[Bulldozer](./23_practice.php#L61-L78) - Класс бульдозеров
 
 
 ## Используемые технологии
