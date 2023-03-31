@@ -8,7 +8,7 @@
 1. [23_practice](./23_practice.php)
 
 ## Cтруктура файла
-[Vehicle](./23_practice.php#L3 - Абстрактный класс
+[Vehicle](./23_practice.php#L3) - Абстрактный класс
 
 
 ## Используемые технологии
