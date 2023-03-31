@@ -3,7 +3,7 @@
 
 
 ## Основной файл
-1. [23_practice](./23_practice.php)
+[23_practice](./23_practice.php)
 
 ## Cтруктура файла
 [Vehicle](./23_practice.php#L3-L17) - Абстрактный класс
